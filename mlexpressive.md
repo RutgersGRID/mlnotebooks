@@ -41,6 +41,12 @@
 - [ ] Expression transfer
 - [ ] Body movement
 
+Rigging Basics:
+
+* [Three.js and Blender Character Rigging](https://medium.com/@agm1984/how-to-rig-a-character-model-for-three-js-in-blender-846e258a9d9d)
+* [Rigging a generic character in Blender](https://www.youtube.com/watch?v=SBYb1YmaOMY&t)
+* [Rigging in 2D Spiderman] (https://www.youtube.com/watch?v=NOT3d7W-71U&amp;t=180s)
+
 ### Video expression transfer
 
 - [ ] ML Face and Feature finding
